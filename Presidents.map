@@ -1,0 +1,52 @@
+<img src="[Presidents] (imported)" width="960" height="720" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:dshep -->
+<area shape="poly" coords="55,115,77,90,121,108,124,190,46,181" href="GeorgeWashington.mp3" />
+<area shape="poly" coords="133,117,152,90,208,107,208,199,128,183,127,183" href="JohnAdams.mp3" />
+<area shape="poly" coords="215,101,256,98,278,120,281,184,209,189" href="ThomasJefferson.mp3" />
+<area shape="poly" coords="296,165,285,100,337,80,369,120,359,190,291,196" href="JamesMadison.mp3" />
+<area shape="poly" coords="367,175,374,103,406,84,444,111,444,186,402,202" href="JamesMonroe.mp3" />
+<area shape="poly" coords="460,168,445,91,515,88,521,181,514,195,451,191" href="JohnQuincyAdams.mp3" />
+<area shape="poly" coords="40,246,58,203,117,206,119,311,43,309" href="AndrewJackson.mp3" />
+<area shape="poly" coords="126,308,126,209,175,194,200,210,196,305" href="MartinVanBuren.mp3" />
+<area shape="poly" coords="205,294,201,211,245,191,281,218,268,302" href="WilliamHenryHarrison.mp3" />
+<area shape="poly" coords="277,295,282,205,343,201,344,307" href="JohnTyler.mp3" />
+<area shape="poly" coords="353,286,354,216,418,205,429,313,429,314" href="JamesKPolk.mp3" />
+<area shape="poly" coords="438,290,427,207,476,199,508,219,497,306,426,296" href="ZacharyTaylor.mp3" />
+<area shape="poly" coords="506,284,513,204,568,201,584,298,530,317" href="MillardFillmore.mp3" />
+<area shape="poly" coords="596,305,580,219,623,187,658,211,646,305" href="FranklinPierce.mp3" />
+<area shape="poly" coords="660,287,660,208,706,193,744,229,720,309" href="JamesBuchanan.mp3" />
+<area shape="poly" coords="743,294,743,193,797,209,815,308" href="AbrahamLincoln.mp3" />
+<area shape="poly" coords="821,289,810,201,892,201,900,305" href="AndrewJohnson.mp3" />
+<area shape="poly" coords="26,399,30,331,109,322,121,422,81,432" href="UlyssesSGrant.mp3" />
+<area shape="poly" coords="122,409,112,330,205,325,183,438" href="RutherfordBHayes.mp3" />
+<area shape="poly" coords="197,416,202,323,278,322,256,412" href="JamesAGarfield.mp3" />
+<area shape="poly" coords="275,405,274,325,359,329,350,422" href="ChesterAArthur.mp3" />
+<area shape="poly" coords="365,415,365,329,436,317,436,421" href="GroverCleveland.mp3" />
+<area shape="poly" coords="449,408,445,325,516,317,518,431" href="BenjaminHarrison.mp3" />
+<area shape="poly" coords="529,410,523,331,596,312,599,424" href="WilliamMcKinely.mp3" />
+<area shape="poly" coords="606,412,602,332,658,318,669,353,669,424" href="TheodoreRoosevelt.mp3" />
+<area shape="poly" coords="672,330,673,421,753,420,745,324" href="WilliamHTaft.mp3" />
+<area shape="poly" coords="768,419,747,332,820,315,827,423" href="WoodrowWilson.mp3" />
+<area shape="poly" coords="837,403,831,329,900,325,915,423" href="WarrenGHarding.mp3" />
+<area shape="poly" coords="48,511,36,442,124,441,121,539,64,543" href="CalvinCoolidge.mp3" />
+<area shape="poly" coords="131,523,130,437,197,444,191,542" href="HerbertCHoover.mp3" />
+<area shape="poly" coords="201,525,204,444,271,436,274,544" href="FranklinDRoosevelt.mp3" />
+<area shape="poly" coords="287,539,274,443,337,439,357,540" href="HarrySTruman.mp3" />
+<area shape="poly" coords="370,545,356,451,430,441,429,538,429,539" href="DwightDEisenhower.mp3" />
+<area shape="poly" coords="447,535,435,447,506,436,504,535" href="JohnFKennedy.mp3" />
+<area shape="poly" coords="530,531,515,439,599,442,572,527" href="LyndonBJohnson.mp3" />
+<area shape="poly" coords="604,532,602,436,678,439,657,530" href="RichardMNixon.mp3" />
+<area shape="poly" coords="677,532,682,435,751,438,736,540" href="GeraldRFord.mp3" />
+<area shape="poly" coords="754,519,756,442,828,435,825,545" href="JamesEarlCarter.mp3" />
+<area shape="poly" coords="838,527,836,440,905,437,912,552" href="RonaldReagan.mp3" />
+<area shape="poly" coords="341,646,337,567,422,562,414,660" href="GeorgeBush.mp3" />
+<area shape="poly" coords="428,642,421,556,506,553,496,659" href="WilliamJClinton.mp3" />
+<area shape="poly" coords="513,650,510,556,581,558,569,651" href="GeorgeWBush.mp3" />
+<area shape="poly" coords="585,639,581,555,673,560,670,650" href="BarackObama.mp3" />
+</map>
