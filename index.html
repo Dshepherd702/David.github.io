@@ -18,9 +18,13 @@
             margin-left: 40%;
             margin-top: 25%;
         }
-        body{
-        background-image:url("City_Landscape_Background.jpg");
-        background-repeat: no-repeat;
+        .backgroundPic{
+            background-image:url("City_Landscape_Background.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            z-index: -1000;
         }
 
     
@@ -50,6 +54,7 @@
                        </ul>
                    
                    </div>
+                   <div class = "backgroundPic"></div>
 
 </body>
 </html>
