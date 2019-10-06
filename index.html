@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+    <link href="mobile.css" media="screen and (max-width:720px)">
+    <link href="tablet.css" media="screen and (min-width:721px) and (max-width:960px)">
+    <link href="desktop.css" media="screen and (min-width:961px)">
     <title>My First Webpage</title>
     <style>
         .rightList{
@@ -28,6 +30,25 @@
             height: 100vh;
             
         }
+        /* Media tags for phones, tablets, and desktops*/
+        /* rules for phones */
+		@media only screen and (max-width:720px)
+		{
+			.tablet {display:none;}
+			.desktop {display:none;}
+		}
+		/* CSS rules for tablets */
+		@media only screen and (min-width:721px) and (max-width:960px)
+		{
+			.desktop {display:none;}
+			.phone {display:none;}
+		}
+		/* CSS rules for desktops */
+		@media only screen and (min-width:961px)
+		{
+			.tablet {display:none;}
+			.phone {display:none;}
+		}
         
         
 
